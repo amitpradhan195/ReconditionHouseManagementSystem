@@ -1,0 +1,35 @@
+Must Have:
+1) User Login
+2) Insert Item
+3) Retrieve Item
+4) View Information
+5) Book Item
+6) Purchase Item 
+7) Sell Item
+8) Exchange Item
+9) Log out
+10) Store customer information
+11) Generate Bill
+12) Registration
+13) Store Bill
+14) Manage Inventory System
+15) Database Deign
+
+Should Have:
+1) Update Item
+2) Delete Item
+3) Search Item
+4) Home page 
+5) Edit Profile
+6) Contact information
+
+
+
+
+Could Have:
+1) User Review
+2) Forgot Password
+3) visitor Counter
+4) Slider
+5) Gallery 
+

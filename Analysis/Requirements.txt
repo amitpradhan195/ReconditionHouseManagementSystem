@@ -1,0 +1,31 @@
+Requirement Analysis:
+1) User Login
+2) Insert Item
+3) Update Item
+4) Delete Item
+5) View Information
+6) Book Item
+7) Search Item
+8) Purchase Item
+9) Sell Item
+10) Exchange Item
+11) Registration 
+12) Home Page
+13) Edit Profile
+14) Gallery
+15) User Review
+16) Manage Customer
+17) log out
+18) Generate Bill
+19) Store Customer Information
+20) Forgot Password
+21) Slider
+22) Contact Information
+23) Visitor Counter
+24) Store Bill 
+25) Manage Inventory
+26) Database Design
+27) Use Case Diagram
+28) Activity Diagram
+29) Class Diagram
+30) 
