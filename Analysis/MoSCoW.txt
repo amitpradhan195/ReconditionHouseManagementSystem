@@ -13,7 +13,9 @@ Must Have:
 12) Registration
 13) Store Bill
 14) Manage Inventory System
-15) Database Deign
+15) Database Design
+
+
 
 Should Have:
 1) Update Item
@@ -22,7 +24,6 @@ Should Have:
 4) Home page 
 5) Edit Profile
 6) Contact information
-
 
 
 
