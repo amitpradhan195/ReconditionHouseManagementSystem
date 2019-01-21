@@ -1,4 +1,5 @@
-Requirement Analysis:
+
+Functional Requirements:
 1) User Login
 2) Insert Item
 3) Update Item
@@ -24,8 +25,16 @@ Requirement Analysis:
 23) Visitor Counter
 24) Store Bill 
 25) Manage Inventory
-26) Database Design
-27) Use Case Diagram
-28) Activity Diagram
-29) Class Diagram
-30) 
+26) Authentication
+
+
+Non-Functional Requirements;
+1) Security
+2) Performance
+3) Availability
+4) Reliability
+5) Maintainability
+6) Usability
+7) Data integrity
+8) Supportability
+
