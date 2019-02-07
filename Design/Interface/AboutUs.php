@@ -19,6 +19,8 @@
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" type="text/css" href="assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
   
   
   
@@ -40,29 +42,29 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="Index.html">
+                    <a href="Index.php">
                          <img src="assets/images/motorbikelogo-96x96.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="Index.html">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="Index.php">
                         RHMS</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-warning display-4" href="Index.html"><span class="mobi-mbri mobi-mbri-home mbr-iconfont mbr-iconfont-btn"></span>
+                    <a class="nav-link link text-warning display-4" href="Index.php"><span class="mobi-mbri mobi-mbri-home mbr-iconfont mbr-iconfont-btn"></span>
                         
                         Home</a>
-                </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Gallery.html"><span class="mbri-image-gallery mbr-iconfont mbr-iconfont-btn"></span>Gallery</a></li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Bookings.html" aria-expanded="false"><span class="mbri-cart-full mbr-iconfont mbr-iconfont-btn"></span>Bookings</a></li><li class="nav-item"> <a class="nav-link link text-warning display-4" href="Categories.html"><span class="mbri-contact-form mbr-iconfont mbr-iconfont-btn"></span>Categories</a>    </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="https://mobirise.co">
+                </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Gallery.php"><span class="mbri-image-gallery mbr-iconfont mbr-iconfont-btn"></span>Gallery</a></li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Bookings.php" aria-expanded="false"><span class="mbri-cart-full mbr-iconfont mbr-iconfont-btn"></span>Bookings</a></li><li class="nav-item"> <a class="nav-link link text-warning display-4" href="Categories.php"><span class="mbri-contact-form mbr-iconfont mbr-iconfont-btn"></span>Categories</a>    </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="https://mobirise.co">
                         </a></li><li class="nav-item"><a class="nav-link link text-warning display-4" href="https://mobirise.co">
                         </a></li>
                 <li class="nav-item">
-                    <a class="nav-link link text-warning display-4" href="AboutUs.html"><span class="mbri-italic mbr-iconfont mbr-iconfont-btn"></span>
+                    <a class="nav-link link text-warning display-4" href="AboutUs.php"><span class="mbri-italic mbr-iconfont mbr-iconfont-btn"></span>
                         
                         About Us
                     </a>
                 </li></ul>
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-4" href="https://mobirise.co"><span class="mbri-login mbr-iconfont mbr-iconfont-btn"></span>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-4" data-target="#modalLogin" data-toggle="modal"><span class="mbri-login mbr-iconfont mbr-iconfont-btn"></span>
                     
                     Log In</a></div>
         </div>
@@ -243,6 +245,143 @@
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
+  <div class="modal fade " id="modalLogin">
+  <div class="modal-dialog modal-dialog-center modal-sm">
+    <div class="modal-content ">
+     <div class="modal-header">
+      <h3 class="text-info " id="titleLogin"> LOGIN </h3>
+      <button type="button" class="close" data-dismiss="modal">&times;</button>
+     </div>
+        <div class="modal-body">
+          <form method="post">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-user-alt"></i> </span>
+              </div>
+              <input type="text" name="username" class="form-control" placeholder="Username" required autofocus>
+            </div>
+            <br>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-key"></i> </span>
+              </div>
+              <input type="password" name="password" class="form-control" placeholder="Password" required>
+            </div>
+        </div>
+
+        <button class="btn btn-primary btn-sm" name="btnLogin" type="submit">LOGIN</button>
+        <a class="text-center text-primary mt-2" id="linkSignup" data-target="#modalSignup" data-toggle="modal">Create a new account</a>
+        </form>
+        <br>
+    </div>
+  </div>
+</div>
+
+<script>
+$(document).ready(function(){
+    $("#linkSignup").click(function(){
+        $("#modalLogin").modal("hide");
+        $("#modalSignup").modal("show");
+    });
+
+     $("#linkLogin").click(function(){
+      $("#modalSignup").modal("hide");
+      $("#modalLogin").modal("show");
+    });
+  });
+</script>
+
+<div class="modal fade" id="modalSignup">
+  <div class="modal-dialog modal-dialog-center modal-md">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="text-center text-danger" id="titleSignup"> SignUp </h1>
+        <img src="addUser.png" alt="Logo" style="width:60px;">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body" id="scrollSignup">
+          <form method="post">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-user-alt"></i></span>
+              </div>
+              <input type="text" id="inputFullname" name="fullname" class="form-control" placeholder="Full Name" required>
+            </div>
+            <br>
+            <div class="form-group row">
+              <label class="col-sm-2 font-weight-bold text-secondary">Gender: </label>
+              <div class="col-sm-10">
+                  <div class="form-check form-check-inline">
+                      <input class="form-check-input" type="radio" name="gender" id="optMale" value="Male">
+                      <label class="form-check-label" for="optMale">Male</label>
+                  </div>
+                  <div class="form-check form-check-inline">
+                      <input class="form-check-input" type="radio" name="gender" id="optFemale" value="Female">
+                      <label class="form-check-label" for="optFemale">Female</label>
+                  </div>
+                  <div class="form-check form-check-inline">
+                      <input class="form-check-input" type="radio" name="gender" id="optOthers" value="Others">
+                      <label class="form-check-label" for="optOthers">Others</label>
+                  </div>
+              </div>
+            </div>
+
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-map-marker-alt"></i> </span>
+              </div>
+              <input type="text" id="inputAddress" name="postalAddress" class="form-control" placeholder="Postal Address" required>
+            </div>
+            <br>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-map-marked-alt"></i> </span>
+              </div>
+              <input type="text" id="inputPostalCode" name="postalCode" class="form-control" placeholder="Postal Code" required>
+            </div>
+            <br>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="far fa-calendar-alt"></i> </span>
+              </div>
+              <input type="date" id="inputDob" name="dob" class="form-control"  required>
+            </div>
+            <br>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="far fa-envelope"></i></span>
+              </div>
+              <input type="email" id="inputEmail" name="email" class="form-control" placeholder="Email" required>
+            </div>
+            <br>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-user-alt"></i> </span>
+              </div>
+              <input type="text" id="inputUsername" name="username" class="form-control" placeholder="Username" required>
+            </div>
+            <br>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-key"></i> </span>
+              </div>
+              <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required>
+            </div>
+            <br>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><i class="fas fa-key"></i> </span>
+              </div>
+              <input type="password" id="inputRetype" name="retype" class="form-control" placeholder="Re-type Password" required>
+            </div>
+            <br>
+            <button class="btn btn-primary btn-lg mx-3" name="btnSignup" type="submit">Sign Up</button>
+            <a class="text-center text-primary mt-2" id="linkLogin" data-target="#modalLogin" data-toggle="modal">I already have an account</a>
+          </form>
+        </div>
+    </div>
+  </div>
+</div>
   
 </body>
 </html>

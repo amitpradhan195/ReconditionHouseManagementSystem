@@ -7,24 +7,26 @@
   <meta name="generator" content="Mobirise v4.9.1, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/motorbikelogo-96x96.png" type="image/x-icon">
-  <meta name="description" content="">
-  <title>Home</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <meta name="description" content="Website Generator Description">
+  <title>Categories</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-   <link rel="stylesheet" type="text/css" href="assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  
   
   
 </head>
 <body>
-  <link rel="stylesheet" href="style.less" class="cid-rgarQyhyTr" id="menu1-g" data-rv-view="1029"><section class="menu cid-rgarQyhyTr" once="menu" id="menu1-g">
+  <link rel="stylesheet" href="style.less" class="cid-rgarQyhyTr" id="menu1-18" data-rv-view="843"><section class="menu cid-rgarQyhyTr" once="menu" id="menu1-18">
 
     
 
@@ -40,24 +42,24 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="Index.html">
+                    <a href="Index.php">
                          <img src="assets/images/motorbikelogo-96x96.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="Index.html">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="Index.php">
                         RHMS</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-warning display-4" href="Index.html"><span class="mobi-mbri mobi-mbri-home mbr-iconfont mbr-iconfont-btn"></span>
+                    <a class="nav-link link text-warning display-4" href="Index.php"><span class="mobi-mbri mobi-mbri-home mbr-iconfont mbr-iconfont-btn"></span>
                         
                         Home</a>
-                </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Gallery.html"><span class="mbri-image-gallery mbr-iconfont mbr-iconfont-btn"></span>Gallery</a></li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Bookings.html" aria-expanded="false"><span class="mbri-cart-full mbr-iconfont mbr-iconfont-btn"></span>Bookings</a></li><li class="nav-item"> <a class="nav-link link text-warning display-4" href="Categories.html"><span class="mbri-contact-form mbr-iconfont mbr-iconfont-btn"></span>Categories</a>    </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="https://mobirise.co">
+                </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Gallery.php"><span class="mbri-image-gallery mbr-iconfont mbr-iconfont-btn"></span>Gallery</a></li><li class="nav-item"><a class="nav-link link text-warning display-4" href="Bookings.php" aria-expanded="false"><span class="mbri-cart-full mbr-iconfont mbr-iconfont-btn"></span>Bookings</a></li><li class="nav-item"> <a class="nav-link link text-warning display-4" href="Categories.php"><span class="mbri-contact-form mbr-iconfont mbr-iconfont-btn"></span>Categories</a>    </li><li class="nav-item"><a class="nav-link link text-warning display-4" href="https://mobirise.co">
                         </a></li><li class="nav-item"><a class="nav-link link text-warning display-4" href="https://mobirise.co">
                         </a></li>
                 <li class="nav-item">
-                    <a class="nav-link link text-warning display-4" href="AboutUs.html"><span class="mbri-italic mbr-iconfont mbr-iconfont-btn"></span>
+                    <a class="nav-link link text-warning display-4" href="AboutUs.php"><span class="mbri-italic mbr-iconfont mbr-iconfont-btn"></span>
                         
                         About Us
                     </a>
@@ -69,15 +71,97 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/y">html site templates</a></section><section class="carousel slide cid-rge8S2Bp73" data-interval="false" id="slider1-x">
+<section class="engine"><a href="https://mobirise.info/q">free responsive web templates</a></section><section class="mbr-section form3 cid-rggij9RQ25" id="form3-1c">
 
     
 
-    <div class="full-screen"><div class="mbr-slider slide carousel" data-pause="true" data-keyboard="false" data-ride="false" data-interval="false"><ol class="carousel-indicators"><li data-app-prevent-settings="" data-target="#slider1-x" class=" active" data-slide-to="0"></li><li data-app-prevent-settings="" data-target="#slider1-x" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider1-x" data-slide-to="2"></li></ol><div class="carousel-inner" role="listbox"><div class="carousel-item slider-fullscreen-image active" data-bg-video-slide="false" style="background-image: url(assets/images/pic4-2000x1184.jpg);"><div class="container container-slide"><div class="image_wrapper"><div class="mbr-overlay"></div><img src="assets/images/pic4-2000x1184.jpg"><div class="carousel-caption justify-content-center"><div class="col-10 align-center"><h2 class="mbr-fonts-style display-1">Meet the desire<br></h2><p class="lead mbr-text mbr-fonts-style display-5">Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.</p><div class="mbr-section-btn" buttons="0"><a class="btn btn-success display-4" href="https://mobirise.com">Read More</a> <a class="btn  btn-white-outline display-4" href="https://mobirise.com">Buy</a></div></div></div></div></div></div><div class="carousel-item slider-fullscreen-image" data-bg-video-slide="false" style="background-image: url(assets/images/pic1-2000x1600.jpg);"><div class="container container-slide"><div class="image_wrapper"><div class="mbr-overlay"></div><img src="assets/images/pic1-2000x1600.jpg"><div class="carousel-caption justify-content-center"><div class="col-10 align-left"><h2 class="mbr-fonts-style display-1">VIDEO SLIDE</h2><p class="lead mbr-text mbr-fonts-style display-5">Slide with youtube video background and color overlay. Title and text are aligned to the left.</p><div class="mbr-section-btn" buttons="0"><a class="btn btn-primary display-4" href="https://mobirise.com">FOR WINDOWS</a> <a class="btn  btn-white-outline display-4" href="https://mobirise.com">FOR MAC</a></div></div></div></div></div></div><div class="carousel-item slider-fullscreen-image" data-bg-video-slide="false" style="background-image: url(assets/images/background6.jpg);"><div class="container container-slide"><div class="image_wrapper"><div class="mbr-overlay"></div><img src="assets/images/background6.jpg"><div class="carousel-caption justify-content-center"><div class="col-10 align-right"><h2 class="mbr-fonts-style display-1">IMAGE SLIDE</h2><p class="lead mbr-text mbr-fonts-style display-5">Choose from the large selection of latest products.<br></p><div class="mbr-section-btn" buttons="0"><a class="btn btn-info display-4" href="https://mobirise.com">FOR WINDOWS</a> <a class="btn  btn-white-outline display-4" href="https://mobirise.com">FOR MAC</a></div></div></div></div></div></div></div><a data-app-prevent-settings="" class="carousel-control carousel-control-prev" role="button" data-slide="prev" href="#slider1-x"><span aria-hidden="true" class="mbri-left mbr-iconfont"></span><span class="sr-only">Previous</span></a><a data-app-prevent-settings="" class="carousel-control carousel-control-next" role="button" data-slide="next" href="#slider1-x"><span aria-hidden="true" class="mbri-right mbr-iconfont"></span><span class="sr-only">Next</span></a></div></div>
+    
 
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-12 col-lg-8">
+                <h2 class="align-center pb-2 mbr-fonts-style display-2">RHMS</h2>
+                <h3 class="mbr-section-subtitle align-center pb-5 mbr-light mbr-fonts-style display-5">Meet the desire<br></h3>
+            </div>
+        </div>
+
+        <div class="row py-2 justify-content-center">
+            <div class="col-12 col-lg-6  col-md-8 " data-form-type="formoid">
+                <div data-form-alert="" hidden="">Thanks for filling out the form!</div>
+                <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="hpBlqaE7Um3ijReIQysByqBZqhZXQZdnxmVd0nnDS1BkGI8Nc2x28taTQFvkIEyz5Fu2CkGWD76KeA3SaRZxA8dWs6wccxuS1SzVQ9fEuvQ3pJgbViXLv57+qruoUw1C">
+                    <div class="mbr-subscribe input-group">
+                        <input class="form-control" type="email" name="email" placeholder="All" data-form-field="Email" required="" id="email-form3-1c">
+                        <span class="input-group-btn"><button href="" type="submit" class="btn btn-primary display-4">Categories</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
 </section>
 
-<section class="services2 cid-rge5igjer4" id="services2-q">
+<section class="features3 cid-rggjwDkp7Y" id="features3-1e">
+
+    
+
+    
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/mbr-676x443.jpg" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            Street Motorcycles</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
+                            Street</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/mbr-676x451.jpg" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            Dirt Motorcycles</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
+                            Dirt</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/mbr-1-676x451.jpg" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">&nbsp;Sport Motorcycles</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
+                            Sport</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="services1 cid-rggNzMJlwj" id="services1-1h">
     <!---->
     
     <!---->
@@ -85,127 +169,76 @@
     
     <!--Container-->
     <div class="container">
-        <div class="col-md-12">
-            <div class="media-container-row">
-                <div class="mbr-figure" style="width: 50%;">
-                    <img src="assets/images/mbr-952x635.jpg" alt="Mobirise" title="">
-                </div>
-                <div class="align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
-                        Watch Special
-                    </h2>
-                    <div class="mbr-section-text">
-                        <p class="mbr-text text1 pt-2 mbr-light mbr-fonts-style display-7">Information about the Motorcycle. Specification and reviews about the Motorcycle.</p>
-                        <p class="mbr-text text2 pt-4 mbr-light mbr-fonts-style display-2">
-                            $8000&nbsp;<span class="cost">$8900</span></p>
+        <div class="row justify-content-center">
+            <!--Titles-->
+            <div class="title pb-5 col-12">
+                <h2 class="align-left pb-3 mbr-fonts-style display-1">
+                    Our Shop
+                </h2>
+                
+            </div>
+            <!--Card-1-->
+            <div class="card col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/200ns-287x176.jpg" alt="Mobirise" title="">
                     </div>
-                    <!--Btn-->
-                    <div class="mbr-section-btn pt-3 align-left">
-                        <a href="https://mobirise.co" class="btn btn-warning-outline display-4">
-                            Buy Now
-                        </a>
+                    <div class="card-box pb-md-5">
+                        <h4 class="card-title mbr-fonts-style display-5">200 NS-Bajaj</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                            eligendi eum illo placeat quis repellendus sequi tempore!
+                        </p>
+                        <!--Btn-->
+                        <div class="mbr-section-btn align-left"><a href="https://mobirise.co" class="btn btn-warning-outline display-4">
+                                RS 325000</a></div>
                     </div>
                 </div>
             </div>
+            <!--Card-2-->
+            <div class="card col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/suzukidt-700x524.jpg" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box pb-md-5">
+                        <h4 class="card-title mbr-fonts-style display-5">Gixxer DT-Suzuki</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                            eligendi eum illo placeat quis repellendus sequi tempore!
+                        </p>
+                        <!--Btn-->
+                        <div class="mbr-section-btn align-left"><a href="https://mobirise.co" class="btn btn-warning-outline display-4">
+                                RS 270000</a></div>
+                    </div>
+                </div>
+            </div>
+            <!--Card-3-->
+            <div class="card col-12 col-md-6 col-lg-4 last-child">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/yamahafz-305x165.jpg" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            FZ V2-Yamaha</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                            eligendi eum illo placeat quis repellendus sequi tempore!
+                        </p>
+                        <!--Btn-->
+                        <div class="mbr-section-btn align-left"><a href="https://mobirise.co" class="btn btn-warning-outline display-4">
+                                RS 285000</a></div>
+                    </div>
+                </div>
+            </div>
+            <!--Card-4-->
+            
         </div>
     </div>
 </section>
 
-<section class="features3 cid-rgasiIgqZ8" id="features3-l">
-
-    
-
-    
-    <div class="container">
-        <div class="media-container-row">
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/mbr-492x349.jpg" alt="Mobirise" title="">
-                    </div>
-                    <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7">
-                            No Coding
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
-                        </p>
-                    </div>
-                    <div class="mbr-section-btn text-center">
-                        <a href="https://mobirise.co" class="btn btn-primary display-4">
-                            Learn More
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/mbr-492x336.jpg" alt="Mobirise" title="">
-                    </div>
-                    <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7">
-                            Mobile Friendly
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
-                        </p>
-                    </div>
-                    <div class="mbr-section-btn text-center">
-                        <a href="https://mobirise.co" class="btn btn-primary display-4">
-                            Learn More
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/mbr-492x375.jpg" alt="Mobirise" title="">
-                    </div>
-                    <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7">
-                            Unique Styles
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
-                        </p>
-                    </div>
-                    <div class="mbr-section-btn text-center">
-                        <a href="https://mobirise.co" class="btn btn-primary display-4">
-                            Learn More
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/mbr-492x328.jpg" alt="Mobirise" title="">
-                    </div>
-                    <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7">
-                            Unlimited Sites
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                           Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
-                        </p>
-                    </div>
-                    <div class="mbr-section-btn text-center">
-                        <a href="https://mobirise.co" class="btn btn-primary display-4">
-                            Learn More
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="cid-rge6f2nVse" id="footer1-w">
+<section class="cid-rggRyHaXRV" id="footer1-1i">
 
     
 
@@ -224,7 +257,8 @@
                 <h5 class="pb-3">
                     Address
                 </h5>
-                <p class="mbr-text">Ssanagaun, Siddipur &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Lalitpur</p>
+                <p class="mbr-text">
+                    Sanagaun, Siddhipur&nbsp;<br>Lalitpur</p>
             </div>
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
                 <h5 class="pb-3">
@@ -303,14 +337,11 @@
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
   <script src="assets/dropdown/js/script.min.js"></script>
   <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
-  <script src="assets/slidervideo/script.js"></script>
+  <script src="assets/formoid/formoid.min.js"></script>
   
   <div class="modal fade " id="modalLogin">
   <div class="modal-dialog modal-dialog-center modal-sm">
