@@ -480,6 +480,30 @@
 													"width": 191.92626953125,
 													"height": 13,
 													"autoResize": false
+												},
+												{
+													"_type": "ERDColumnView",
+													"_id": "AAAAAAFo4hzqzvAr2I0=",
+													"_parent": {
+														"$ref": "AAAAAAFoR3Zm3qVbR5s="
+													},
+													"model": {
+														"$ref": "AAAAAAFo4hzqpfAoBY4="
+													},
+													"visible": true,
+													"enabled": true,
+													"lineColor": "#000000",
+													"fillColor": "#ffffff",
+													"fontColor": "#000000",
+													"font": "Arial;13;0",
+													"showShadow": true,
+													"containerChangeable": false,
+													"containerExtending": false,
+													"left": 765,
+													"top": 448,
+													"width": 191.92626953125,
+													"height": 13,
+													"autoResize": false
 												}
 											],
 											"visible": true,
@@ -494,7 +518,7 @@
 											"left": 760,
 											"top": 383,
 											"width": 201.92626953125,
-											"height": 68,
+											"height": 83,
 											"autoResize": false
 										}
 									],
@@ -2472,6 +2496,20 @@
 									"name": "Price",
 									"type": "FLOAT",
 									"length": "15",
+									"primaryKey": false,
+									"foreignKey": false,
+									"nullable": false,
+									"unique": false
+								},
+								{
+									"_type": "ERDColumn",
+									"_id": "AAAAAAFo4hzqpfAoBY4=",
+									"_parent": {
+										"$ref": "AAAAAAFoR3Zm3qVXv24="
+									},
+									"name": "Img",
+									"type": "BLOB",
+									"length": 0,
 									"primaryKey": false,
 									"foreignKey": false,
 									"nullable": false,
